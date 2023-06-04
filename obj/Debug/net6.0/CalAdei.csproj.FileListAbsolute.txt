@@ -1,0 +1,15 @@
+/home/rollie/Desktop/Csharp#/CalAdei/bin/Debug/net6.0/CalAdei
+/home/rollie/Desktop/Csharp#/CalAdei/bin/Debug/net6.0/CalAdei.deps.json
+/home/rollie/Desktop/Csharp#/CalAdei/bin/Debug/net6.0/CalAdei.runtimeconfig.json
+/home/rollie/Desktop/Csharp#/CalAdei/bin/Debug/net6.0/CalAdei.dll
+/home/rollie/Desktop/Csharp#/CalAdei/bin/Debug/net6.0/ref/CalAdei.dll
+/home/rollie/Desktop/Csharp#/CalAdei/bin/Debug/net6.0/CalAdei.pdb
+/home/rollie/Desktop/Csharp#/CalAdei/obj/Debug/net6.0/CalAdei.csproj.AssemblyReference.cache
+/home/rollie/Desktop/Csharp#/CalAdei/obj/Debug/net6.0/CalAdei.GeneratedMSBuildEditorConfig.editorconfig
+/home/rollie/Desktop/Csharp#/CalAdei/obj/Debug/net6.0/CalAdei.AssemblyInfoInputs.cache
+/home/rollie/Desktop/Csharp#/CalAdei/obj/Debug/net6.0/CalAdei.AssemblyInfo.cs
+/home/rollie/Desktop/Csharp#/CalAdei/obj/Debug/net6.0/CalAdei.csproj.CoreCompileInputs.cache
+/home/rollie/Desktop/Csharp#/CalAdei/obj/Debug/net6.0/CalAdei.dll
+/home/rollie/Desktop/Csharp#/CalAdei/obj/Debug/net6.0/ref/CalAdei.dll
+/home/rollie/Desktop/Csharp#/CalAdei/obj/Debug/net6.0/CalAdei.pdb
+/home/rollie/Desktop/Csharp#/CalAdei/obj/Debug/net6.0/CalAdei.genruntimeconfig.cache
